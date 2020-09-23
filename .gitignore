@@ -3,27 +3,36 @@ logs
 *.log
 npm-debug.log*
 
-# Dependencies
-node_modules/
+# dependencies
+/node_modules
 
-# Coverage
-coverage
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
 
-# Transpiled files
-build/
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 
-# VS Code
-.vscode
-!.vscode/tasks.js
+# misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+junit.xml
 
-# JetBrains IDEs
-.idea/
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Misc
+# System Files
 .DS_Store
+Thumbs.db

@@ -1,20 +1,29 @@
 # Typescript Node Boilerplate
 
 Contents:
+
 - [TypeScript][typescript] [4.0][typescript-4-0]
-- [ESLint][eslint] 
-- [Jest][jest] 
+- [ESLint][eslint]
+- [Jest][jest]
 - [Prettier][prettier]
 - Reproducible environments with [Volta][volta]
-    - [install][volta-getting-started] Volta
+  - [install][volta-getting-started] Volta
 - .editorconfig for consistent file format
 
 ## Available Scripts
 
+- `build` - compile TS
+- `build:watch` - interactive watch mode to automatically transpile source files
+- `checkcommit` - validate commit message
 - `clean` - remove coverage data, Jest cache and transpiled files,
-- `build` - transpile TypeScript to ES6,
-- `build:watch` - interactive watch mode to automatically transpile source files,
+- `clean-deps` - remove `node_modules`
+- `clean-lib` - remove coverage and build directories and files
+- `clean-logs` - remove log files
+- `commit` - start commit
+- `format` - format files
 - `lint` - lint source files and tests,
+- `nuke` - clean everything
+- `sort-pj` - sort `package.json`
 - `test` - run tests,
 - `test:watch` - interactive watch mode to automatically re-run tests
 

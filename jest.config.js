@@ -1,8 +1,7 @@
 const TEST_REGEX = '(/__tests__/.*|(\\.|/)(test|spec))\\.(jsx?|js?|tsx?|ts?)$';
 
 module.exports = {
-  outputDirectory: baseRoot,
-  coverage: true,
+  collectCoverage: true,
   collectCoverageFrom: ['<rootDir>/src/**/*.ts', '!<rootDir>/**/*.test.ts'],
   coverageReporters: ['cobertura', 'lcov', 'text', 'html'],
   reporters: ['default', 'jest-junit'],
