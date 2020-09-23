@@ -27,6 +27,14 @@ Contents:
 - `test` - run tests,
 - `test:watch` - interactive watch mode to automatically re-run tests
 
+# Enhancements
+
+Creating branches with different Typescript projects
+
+- ts-monorepo
+- ts-monorepo-serverless
+- others...
+
 [typescript]: https://www.typescriptlang.org/
 [typescript-4-0]: https://www.typescriptlang.org/docs/handbook/release-notes/typescript-4-0.html
 [jest]: https://facebook.github.io/jest/
