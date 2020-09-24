@@ -1,6 +1,10 @@
 # Typescript Node Boilerplate
 
-[![Build Status](https://github.com/jimador/typescript-node-boilerplate/workflows/build/badge.svg)](https://github.com/jimador/typescript-node-boilerplate/actions)
+__Builds__: 
+- `Master` - ![Build Status - Master](https://github.com/jimador/typescript-node-boilerplate/workflows/build/badge.svg?branch=master)
+
+___
+
 Contents:
 
 - [TypeScript][typescript] [4.0][typescript-4-0]
