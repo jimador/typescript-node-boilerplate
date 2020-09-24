@@ -9,6 +9,8 @@ Contents:
 - Reproducible environments with [Volta][volta]
   - [install][volta-getting-started] Volta
 - .editorconfig for consistent file format
+- [Dependabot] updates
+- [KodiakHQ] automerges
 
 ## Available Scripts
 
@@ -42,3 +44,5 @@ Creating branches with different Typescript projects
 [prettier]: https://prettier.io
 [volta]: https://volta.sh
 [volta-getting-started]: https://docs.volta.sh/guide/getting-started
+[Dependabot]: https://dependabot.com/
+[KodiakHQ]: https://kodiakhq.com/
