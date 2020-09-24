@@ -1,5 +1,6 @@
 # Typescript Node Boilerplate
 
+[![Build Status](https://github.com/jimador/typescript-node-boilerplate/workflows/build/badge.svg)](https://github.com/jimador/typescript-node-boilerplate/actions)
 Contents:
 
 - [TypeScript][typescript] [4.0][typescript-4-0]
@@ -44,5 +45,5 @@ Creating branches with different Typescript projects
 [prettier]: https://prettier.io
 [volta]: https://volta.sh
 [volta-getting-started]: https://docs.volta.sh/guide/getting-started
-[Dependabot]: https://dependabot.com/
-[KodiakHQ]: https://kodiakhq.com/
+[dependabot]: https://dependabot.com/
+[kodiakhq]: https://kodiakhq.com/
