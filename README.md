@@ -21,11 +21,12 @@ Contents:
 ## Available Scripts
 
 - `build` - compile TS
+- `build:release` - build esm and cjs modules
 - `build:watch` - interactive watch mode to automatically transpile source files
 - `checkcommit` - validate commit message
 - `clean` - remove coverage data, Jest cache and transpiled files,
 - `clean-deps` - remove `node_modules`
-- `clean-lib` - remove coverage and build directories and files
+- `clean-generated` - remove coverage and build directories and files
 - `clean-logs` - remove log files
 - `commit` - start commit
 - `format` - format files
