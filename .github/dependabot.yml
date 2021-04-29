@@ -1,0 +1,16 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: weekly
+    day: sunday
+    time: "23:00"
+    timezone: US/Eastern
+  open-pull-requests-limit: 10
+  labels:
+  - automerge
+  ignore:
+  - dependency-name: "@types/jest"
+    versions:
+    - 26.0.21
