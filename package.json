@@ -65,7 +65,7 @@
     "pretty-quick": "^3.1.0",
     "rimraf": "~3.0.2",
     "satisfied": "^1.1.2",
-    "sort-package-json": "^1.49.0",
+    "sort-package-json": "^1.50.0",
     "syncpack": "^5.7.11",
     "ts-jest": "~26.5.5",
     "tsutils": "~3.21.0",
